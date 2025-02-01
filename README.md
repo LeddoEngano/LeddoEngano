@@ -38,12 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/felipexy/felipexy/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/felipexy/count.svg?"  />
 </div>
