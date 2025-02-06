@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning how not to fail my own startup<br>🎯 Goals: Save the world<br>🎲 Fun fact: I'm also a content creator with over 450k followers</p>
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning how not to fail my own startup<br>🎯 Goals: Save the world<br></p>
 
 ###
 
