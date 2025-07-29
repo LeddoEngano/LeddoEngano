@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Leddo and I'm a Software Engineer! (made in Brazil 🇧🇷)</p>
+<p align="left">My name is Felipe Castro and I'm a Software Engineer! (made in Brazil 🇧🇷)</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning how not to fail my own startup<br>🎯 Goals: Save the world<br></p>
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning how not to fail my own startup<br>📷 Content Creator - Humor & Tech<br>🎯 Goals: Save the world<br></p>
 
 ###
 
