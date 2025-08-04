@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Felipe Castro and I'm a Software Engineer! (made in Brazil 🇧🇷)</p>
+<p align="left">My name is Leddo and I'm a Software Engineer! (made in Brazil 🇧🇷)</p>
 
 ###
 
