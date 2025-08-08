@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning how not to fail my own startup<br>📷 Content Creator - Humor & Tech<br>🎯 Goals: Save the world<br></p>
+<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning how not to fail my own startup<br>📷 Content Creator - Humor & Tech<br>🎯 Goals: Save the world<br></p>
 
 ###
 
