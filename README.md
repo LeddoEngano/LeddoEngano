@@ -39,4 +39,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Solana_logo.png" height="40" alt="jest logo"  />
+  <img width="12" />
 </div>
