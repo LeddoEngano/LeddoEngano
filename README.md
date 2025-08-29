@@ -43,8 +43,6 @@
   <img width="12" />
 </div>
 
-###
+<br/>
 
-<h2 align="left">Cool Projects 👇</h2>
-
-###
+### Cool Projects 👇
