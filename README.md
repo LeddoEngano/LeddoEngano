@@ -42,3 +42,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Solana_logo.png" height="40" alt="jest logo"  />
   <img width="12" />
 </div>
+
+###
+
+<h2 align="left">Cool Projects 👇</h2>
+
+###
